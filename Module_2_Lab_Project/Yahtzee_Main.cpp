@@ -19,10 +19,10 @@ int main() {
 	//object instantiation
 	ConsoleUI ui;
 	
-	
+	//random seed
 	std::srand(std::time(0));
 	
-	
+	//run the program as much as you would like
 	while (true)
 	 {
 		//ui object runs the game
