@@ -1,6 +1,6 @@
 // Zach Brown
-//Date: 7/10/2024
-//CS2 Die Class
+//Date: 7/17/2024
+//CS2 Yahtzee
 
 #include <iostream>
 #include <ctime>
