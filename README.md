@@ -2,7 +2,7 @@
 A simple Yahtzee game built in C++ using the foundation of object oriented programming
 
 ## File Description
-- `Yahtzee_Main.cpp`: Contains the main function and controls game flow.
+- `Yahtzee_Main.cpp`: Contains the main function and starts the game.
 - `GameLogic.h` and `GameLogic.cpp`: Conatins the game logic, manages dice, score calculation, and managing selection and implementing scoring   
     methods.
 - `ConsoleUI.h` and `ConsoleUI.cpp`: Contains the user interfaces. Controls the users selections. Allows the user to play the game, read the 
