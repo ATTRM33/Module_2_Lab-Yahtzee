@@ -1,4 +1,4 @@
-# Module_2_Lab-Yahtzee
+# Yahtzee
 A simple Yahtzee game built in C++ using the foundation of object oriented programming
 
 ## File Description
